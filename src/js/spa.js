@@ -1,5 +1,3 @@
-// 链式调度
-
 var mvs = []
 var spa = {
   add: function (fn) {
