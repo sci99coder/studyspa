@@ -1,1 +1,4 @@
-function test{}
+function test(){
+
+    console.log("ok");
+}
